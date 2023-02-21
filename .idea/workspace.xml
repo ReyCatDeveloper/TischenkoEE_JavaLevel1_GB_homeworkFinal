@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="403ddf1b-8e62-4c5d-ada8-7ff2aa2ce522" name="Changes" comment="lesson6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Plate.java" afterDir="false" />
+    <list default="true" id="403ddf1b-8e62-4c5d-ada8-7ff2aa2ce522" name="Changes" comment="lesson8_FinalProject">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -45,6 +49,11 @@
     "last_opened_file_path": "/home/evgen/Рабочий стол/GeekBrains/Java. Уровень 1/Урок1. Java. Введение/Homework/TischenkoEE_JavaLevel1_gbHomework/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677013842845</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson7">
+      <created>1677013879325</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013879325</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson8_FinalProject">
+      <created>1677013915902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013915902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +148,8 @@
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson5" />
     <MESSAGE value="lesson6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson6" />
+    <MESSAGE value="lesson7" />
+    <MESSAGE value="lesson8_FinalProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson8_FinalProject" />
   </component>
 </project>
