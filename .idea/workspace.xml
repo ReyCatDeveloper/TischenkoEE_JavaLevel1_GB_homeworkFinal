@@ -4,14 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="403ddf1b-8e62-4c5d-ada8-7ff2aa2ce522" name="Changes" comment="" />
+    <list default="true" id="403ddf1b-8e62-4c5d-ada8-7ff2aa2ce522" name="Changes" comment="lesson8_FinalProject">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +45,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/evgen/Рабочий стол/GeekBrains/Java. Уровень 1/Урок1. Java. Введение/Homework/TischenkoEE_JavaLevel1_gbHomework/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +63,93 @@
       <option name="presentableId" value="Default" />
       <updated>1677013528310</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1677013568861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013568861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start">
+      <created>1677013580150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013580150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson1">
+      <created>1677013684734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013684734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson2">
+      <created>1677013714620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013714620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson3">
+      <created>1677013736609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013736609</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson4">
+      <created>1677013764458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013764458</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson6">
+      <created>1677013842845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013842845</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson7">
+      <created>1677013879325</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013879325</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson8_FinalProject">
+      <created>1677013915902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677013915902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="lesson1" />
+    <MESSAGE value="lesson2" />
+    <MESSAGE value="lesson3" />
+    <MESSAGE value="lesson4" />
+    <MESSAGE value="lesson5" />
+    <MESSAGE value="lesson6" />
+    <MESSAGE value="lesson7" />
+    <MESSAGE value="lesson8_FinalProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson8_FinalProject" />
   </component>
 </project>
