@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403ddf1b-8e62-4c5d-ada8-7ff2aa2ce522" name="Changes" comment="lesson8_FinalProject">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/ApplicationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/CalcAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/CalcBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/DigitJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/components/OperatorJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/listener/ButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/listener/CalcResultButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/listener/ClearFieldButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/listener/DigitsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8_FinalProject/listener/OperatorsListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +55,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/evgen/Рабочий стол/GeekBrains/Java. Уровень 1/Урок1. Java. Введение/Homework/TischenkoEE_JavaLevel1_gbHomework/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/evgen/Рабочий стол/GeekBrains/Java. Уровень 1/Урок1. Java. Введение/Homework/TischenkoEE_JavaLevel1_gbHomework/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
